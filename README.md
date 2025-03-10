@@ -16,4 +16,3 @@
 6.	   r, annual rate of interest
 7.	Output
 8.	   simple interest = p*t*r
-Copied!
